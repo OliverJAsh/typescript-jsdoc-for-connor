@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "./target",
+        "allowJs": true
+    },
+    "include": ["./src/**/*"]
+}
